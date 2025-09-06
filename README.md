@@ -35,32 +35,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbuElhamd&show_icons=true&theme=dracula" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbuElhamd&layout=compact&theme=dracula" height="150" alt="languages graph"/>
-</div>
 
----
-
-## 🌍 Connect with Me
-<div align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter"/>
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord"/>
-  </a>
-  <a href="https://youtube.com/@yourchannel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube"/>
-  </a>
-</div>
-
----
-
-## 🎮 Fun Stuff
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAbuElhamd/MohamedAbuElhamd/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAbuElhamd/MohamedAbuElhamd/output/pacman-contribution-graph.svg">
