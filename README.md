@@ -25,11 +25,24 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"/>
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"/>
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"/>
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"/>
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"/>
 </div>
 
 ---
