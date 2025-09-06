@@ -39,11 +39,6 @@
   <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord"/>
   <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion"/>
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook"/>
 </p>
 
 ---
