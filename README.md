@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 Fun Stuff
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAbuElhamd/MohamedAbuElhamd/output/pacman-contribution-graph-dark.svg">
