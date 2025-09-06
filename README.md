@@ -42,7 +42,11 @@
 
 ---
 
-## 🎮 Fun Stuff
+## 📊 GitHub Stats
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=MohamedAbuElhamd&theme=dracula&hide_border=true" height="150" alt="streak graph"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAbuElhamd/MohamedAbuElhamd/output/pacman-contribution-graph-dark.svg">
