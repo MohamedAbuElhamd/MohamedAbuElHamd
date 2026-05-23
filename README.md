@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I'm Mohamed Abu El-Hamd</h1>
 
 <p align="left">
-  💻 Junior Software Tester | Manual & Automation (Selenium, API, JMeter)
+  💻 Quality Control Engineer | Manual & Automation (Selenium, API, JMeter)
 </p>
 
 ---
